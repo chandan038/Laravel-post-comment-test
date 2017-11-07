@@ -1,0 +1,5 @@
+1. Clone this project in your local machine from git
+2. update your composer with "composer update" command in CMD prompt.
+3. Go to .env page and change teh setting of database
+4. Migrate the database with "php artisan migrate",
+5. Now execute the project. by cmd run "php artisan serve".
